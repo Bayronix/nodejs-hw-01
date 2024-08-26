@@ -8,5 +8,3 @@ export const addOneContact = async () => {
   data.push(newData);
   await UpdateContacts(data);
 };
-
-addOneContact();

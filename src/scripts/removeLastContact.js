@@ -6,6 +6,3 @@ export const removeLastContact = async () => {
   contactRemove.pop();
   await UpdateContacts(contactRemove);
 };
-
-removeLastContact();
-//

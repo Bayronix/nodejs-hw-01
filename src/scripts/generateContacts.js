@@ -9,5 +9,3 @@ export const generateContacts = async (number) => {
   const updateFile = [...data, ...array];
   await UpdateContacts(updateFile);
 };
-
-generateContacts(5);
