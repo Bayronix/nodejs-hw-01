@@ -1,5 +1,7 @@
-import { PATH_DB } from '../constants/contacts.js';
+import UpdateContacts from './UpdateContacts.js';
 
-export const removeAllContacts = async () => {};
+export const removeAllContacts = async () => {
+  await UpdateContacts([]);
+};
 
 removeAllContacts();

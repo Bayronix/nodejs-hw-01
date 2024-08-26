@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "id": "bf9a74a6-e6b8-4fbe-8bc5-b94d202a409a",
+    "name": "Mr. Lewis Mann",
+    "phone": "1-291-897-5640",
+    "email": "Tamara.Huels57@yahoo.com",
+    "job": "Internal Configuration Supervisor"
+  },
+  {
+    "id": "063390e6-d376-44bd-816f-69f08af592da",
+    "name": "Neal Gleichner",
+    "phone": "1-884-382-8529 x52080",
+    "email": "Elvera.Rodriguez@gmail.com",
+    "job": "Senior Group Liaison"
+  },
+  {
+    "id": "858f60a4-e608-4350-adbc-759cc7af7dc7",
+    "name": "Cameron Brekke",
+    "phone": "1-355-873-6929",
+    "email": "Roselyn_Mertz@hotmail.com",
+    "job": "Forward Directives Strategist"
+  },
+  {
+    "id": "6ceed90a-29cd-4f09-8509-c9188f58c91d",
+    "name": "Samantha Langworth",
+    "phone": "628.570.6149 x99056",
+    "email": "Ivy1@gmail.com",
+    "job": "District Operations Orchestrator"
+  },
+  {
+    "id": "27cc87f6-8115-4e17-9558-2475066c7bd1",
+    "name": "Kendra White",
+    "phone": "426-906-2655 x97804",
+    "email": "Leta_Quitzon@yahoo.com",
+    "job": "Corporate Creative Planner"
+  },
+  {
+    "id": "3cd23361-bfcd-4121-894b-655d0f4c76b9",
+    "name": "Nora Barton",
+    "phone": "1-413-480-4571",
+    "email": "Tomas40@yahoo.com",
+    "job": "Dynamic Markets Technician"
+  },
+  {
+    "id": "d39d27f5-4137-49bb-8123-c0771bbec693",
+    "name": "Morris Shanahan",
+    "phone": "558.459.8000 x70905",
+    "email": "Garfield_Boehm@gmail.com",
+    "job": "Internal Response Designer"
+  },
+  {
+    "id": "7741f25e-187c-409c-9cd0-836200015bc0",
+    "name": "Kelly Balistreri",
+    "phone": "813-463-8321",
+    "email": "Gabrielle_Denesik@yahoo.com",
+    "job": "Customer Metrics Administrator"
+  },
+  {
+    "id": "35f67f39-c895-4fd2-99c5-60df18eee284",
+    "name": "Judy Bartell",
+    "phone": "548.588.4984",
+    "email": "Dedric97@gmail.com",
+    "job": "Senior Group Executive"
+  },
+  {
+    "id": "53b2f725-bed8-49f3-baa5-88584ad90daf",
+    "name": "Leonard McLaughlin",
+    "phone": "918-840-9568",
+    "email": "Kira_Roberts82@hotmail.com",
+    "job": "Regional Accounts Officer"
+  },
+  {
+    "id": "70c8fd92-9076-4877-ba96-4f08e90b7ed9",
+    "name": "Jody Okuneva",
+    "phone": "1-889-529-0869 x141",
+    "email": "Lourdes_Balistreri23@gmail.com",
+    "job": "Product Group Director"
+  }
+]
